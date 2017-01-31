@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9E15FF33-7626-D547-8828-E9A5C2771958}") = "OculusEscapeRoom", "Assembly-CSharp.csproj", "{DAB4A2B6-AD5D-1B5C-CAB7-8E4DF0ECDFC3}"
+EndProject
+Project("{9E15FF33-7626-D547-8828-E9A5C2771958}") = "OculusEscapeRoom", "Assembly-CSharp-Editor.csproj", "{1657E78C-3C49-69DC-0A4D-2BDB89139618}"
+EndProject
+Project("{9E15FF33-7626-D547-8828-E9A5C2771958}") = "OculusEscapeRoom", "Assembly-UnityScript.unityproj", "{6FD52919-7DF2-43DF-34A2-39FD0D56197A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB4A2B6-AD5D-1B5C-CAB7-8E4DF0ECDFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB4A2B6-AD5D-1B5C-CAB7-8E4DF0ECDFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB4A2B6-AD5D-1B5C-CAB7-8E4DF0ECDFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB4A2B6-AD5D-1B5C-CAB7-8E4DF0ECDFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1657E78C-3C49-69DC-0A4D-2BDB89139618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1657E78C-3C49-69DC-0A4D-2BDB89139618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1657E78C-3C49-69DC-0A4D-2BDB89139618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1657E78C-3C49-69DC-0A4D-2BDB89139618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD52919-7DF2-43DF-34A2-39FD0D56197A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD52919-7DF2-43DF-34A2-39FD0D56197A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD52919-7DF2-43DF-34A2-39FD0D56197A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD52919-7DF2-43DF-34A2-39FD0D56197A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
