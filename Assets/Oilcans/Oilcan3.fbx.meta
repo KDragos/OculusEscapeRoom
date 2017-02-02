@@ -3,7 +3,15 @@ guid: a761a9f099feeb7448d293e33e702d44
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: OilCan3
+    100002: //RootNode
+    400000: OilCan3
+    400002: //RootNode
+    2300000: OilCan3
+    3300000: OilCan3
     4300000: OilCan3
+    6400000: OilCan3
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3
@@ -30,7 +38,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
