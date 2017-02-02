@@ -169,17 +169,17 @@
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
- <Reference Include="DOTween50">
- <HintPath>C:/Users/Kristin/Desktop/UnityApps/OculusEscapeRoom/Assets/VRMovementCoreTouch/Demigiant/DOTween/DOTween50.dll</HintPath>
- </Reference>
  <Reference Include="DOTween">
  <HintPath>C:/Users/Kristin/Desktop/UnityApps/OculusEscapeRoom/Assets/VRMovementCoreTouch/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="DOTween43">
+ <HintPath>C:/Users/Kristin/Desktop/UnityApps/OculusEscapeRoom/Assets/VRMovementCoreTouch/Demigiant/DOTween/DOTween43.dll</HintPath>
  </Reference>
  <Reference Include="DOTween46">
  <HintPath>C:/Users/Kristin/Desktop/UnityApps/OculusEscapeRoom/Assets/VRMovementCoreTouch/Demigiant/DOTween/DOTween46.dll</HintPath>
  </Reference>
- <Reference Include="DOTween43">
- <HintPath>C:/Users/Kristin/Desktop/UnityApps/OculusEscapeRoom/Assets/VRMovementCoreTouch/Demigiant/DOTween/DOTween43.dll</HintPath>
+ <Reference Include="DOTween50">
+ <HintPath>C:/Users/Kristin/Desktop/UnityApps/OculusEscapeRoom/Assets/VRMovementCoreTouch/Demigiant/DOTween/DOTween50.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
